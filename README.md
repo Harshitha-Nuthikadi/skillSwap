@@ -47,15 +47,15 @@ We built:
 <img width="900" height="700" alt="matches" src="https://github.com/user-attachments/assets/4c404e88-6a95-40cc-8f0c-a6eeebcf9103" />
 
 ## Folder Structure
-skillswap/
- ├── backend/
- │   ├── server.js
- │   ├── models/
- │   ├── routes/
- │   └── middleware/
- └── frontend/
-     ├── src/
-     └── public/
+skillswap/ <br/>
+ ├── backend/ <br/>
+ │   ├── server.js <br/>
+ │   ├── models/ <br/>
+ │   ├── routes/ <br/>
+ │   └── middleware / <br/>
+ └── frontend/ <br/>
+     ├── src/ <br/>
+     └── public/<br/>
 
      
 ## ▶️ Run Locally
@@ -77,20 +77,16 @@ npm start
 1) Create account and complete profile
 
 2) Add:
-
-  ->Skills you can teach
-
-  ->Skills you want to learn
+Skills you can teach
+Skills you want to learn
 
 3) Go to Suggestions
 
 4) Send request to the best-match people
 
 5) Go to Matches
-
-  ->Accept / Reject requests
-
-  ->Get email and LinkedIn of accepted partners
+Accept / Reject requests
+Get email and LinkedIn of accepted partners
 
 6) Connect and learn together 🎯
 
