@@ -33,17 +33,14 @@ We built:
 |  Contact Sharing | Email + LinkedIn visible only after acceptance |
 |  Full MERN | Clean folder architecture |
 
----<img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/1693ed5b-3c53-428f-9308-3e147e9c311e" />
 
 ## Snapshots
 
-<img width="1920" height="1080" alt="register" src="https://github.com/user-attachments/assets/a314cee3-6e96-40a1-bed6-ed59a13aec1a" />
+<img width="700" height="700" alt="login" src="https://github.com/user-attachments/assets/310d61c3-e5f1-446d-9bc6-a941da7f5859" />
 
-<img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/310d61c3-e5f1-446d-9bc6-a941da7f5859" />
-
+<img width="1920" height="700" alt="register" src="https://github.com/user-attachments/assets/a314cee3-6e96-40a1-bed6-ed59a13aec1a" />
 
 <img width="1920" height="1080" alt="profile" src="https://github.com/user-attachments/assets/bfbeeaae-420e-4d0a-ae84-d2136e8e61ae" />
-
 
 <img width="1920" height="1080" alt="suggestions" src="https://github.com/user-attachments/assets/1833007e-5611-469e-b3ae-7e3880637b0d" />
 
