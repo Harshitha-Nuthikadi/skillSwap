@@ -52,10 +52,10 @@ skillswap/ <br/>
  │   ├── server.js <br/>
  │   ├── models/ <br/>
  │   ├── routes/ <br/>
- │   └── middleware / <br/>
+ │   └── middleware/ <br/>
  └── frontend/ <br/>
      ├── src/ <br/>
-     └── public/<br/>
+     └── public/ <br/>
 
      
 ## ▶️ Run Locally
@@ -77,20 +77,20 @@ npm start
 1) Create account and complete profile
 
 2) Add:
-Skills you can teach
+Skills you can teach ,
 Skills you want to learn
 
 3) Go to Suggestions
 
 4) Send request to the best-match people
 
-5) Go to Matches
-Accept / Reject requests
+5) Go to Matches :
+Accept / Reject requests ,
 Get email and LinkedIn of accepted partners
 
 6) Connect and learn together 🎯
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Harshitha Nuthikadi
 
