@@ -46,6 +46,17 @@ We built:
 
 <img width="900" height="700" alt="matches" src="https://github.com/user-attachments/assets/4c404e88-6a95-40cc-8f0c-a6eeebcf9103" />
 
+## Folder Structure
+skillswap/
+ ├── backend/
+ │   ├── server.js
+ │   ├── models/
+ │   ├── routes/
+ │   └── middleware/
+ └── frontend/
+     ├── src/
+     └── public/
+     
 ## ▶️ Run Locally
 
 ## Frontend
@@ -82,5 +93,7 @@ npm start
 
 6) Connect and learn together 🎯
 
+##👩‍💻 Author
 
+Harshitha Nuthikadi
 
