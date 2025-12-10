@@ -1,39 +1,38 @@
-SkillSwap
+#  SkillSwap  
+**Smart Peer Skill-Exchange Platform | MERN Stack**
 
-Smart Peer Skill-Exchange Platform (MERN)
+SkillSwap helps people **teach what they know** and **learn what they need**  
+by matching them with the most compatible learning partners.
 
-🚀 Overview
+> Learn faster by teaching. Grow faster by connecting.
 
-SkillSwap connects people who want to learn and people who can teach.
-It uses a matching algorithm to suggest the best partners based on:
+---
 
-Skills you know
+## 🧠 Why SkillSwap?
+Most learning platforms are **one-directional** → teacher → student.  
+SkillSwap is **mutual** → **You teach + You learn**.
 
-Skills you want to learn
+We built:
+- A **smart matching engine**  
+- A **connection workflow**  
+- **Contact sharing** only after match acceptance  
 
-Learning style compatibility
+…making it a **real** matching product, not just another CRUD system.
 
-Bio similarity (cosine similarity NLP)
+---
 
-Once matched, users can send requests and connect via email or LinkedIn to collaborate.
+## 🌟 Features
 
-Learn faster by teaching. Grow faster by connecting.
+| Feature | Description |
+|--------|-------------|
+| 🔐 Authentication | JWT secured login & register |
+| 👤 Profiles | SkillsKnow, SkillsWant, Learning style, Bio, LinkedIn |
+| 🧮 Matching Algorithm | Skill overlap + style match + bio similarity (cosine) |
+| 🤝 Requests System | Send, Accept, Reject requests |
+| ✉️ Contact Sharing | Email + LinkedIn visible only after acceptance |
+| 🗄 Full MERN | Clean folder architecture |
 
-🧠 Key Features
-Feature	Description
-🔐 Authentication	Secure login using JWT
-👤 User Profiles	SkillsKnow, SkillsWant, Learning Style, Bio, LinkedIn
-🎯 Smart Matching	Match score calculated from 3 factors
-🤝 Connection Workflow	Send, accept, reject requests
-📬 Contact Sharing	Show email/LinkedIn only after accepted
-🔎 Suggestions Page	Shows best compatible partners
-🎨 Modern UI	Clean professional auth layout
-🧮 Matching Algorithm (Core Logic)
+---
 
-Match score =
-✔ Skill overlap score
-✔ Learning-style compatibility
-✔ Bio similarity (cosine similarity between embeddings)
+## 🧩 System Workflow
 
-This logic makes SkillSwap more than a CRUD app —
-It’s an intelligent matchmaking system.
