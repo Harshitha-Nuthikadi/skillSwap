@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="matches" src="https://github.com/user-attachments/assets/4c404e88-6a95-40cc-8f0c-a6eeebcf9103" /><img width="1920" height="1080" alt="suggestions" src="https://github.com/user-attachments/assets/1833007e-5611-469e-b3ae-7e3880637b0d" />#  SkillSwap  
+
+#  SkillSwap  
 **Smart Peer Skill-Exchange Platform | MERN Stack**
 
 SkillSwap helps people **teach what they know** and **learn what they need**  
@@ -33,19 +34,9 @@ We built:
 | 🗄 Full MERN | Clean folder architecture |
 
 ---
+<img width="1920" height="1080" alt="suggestions" src="https://github.com/user-attachments/assets/1833007e-5611-469e-b3ae-7e3880637b0d" />
 
+<img width="1920" height="1080" alt="matches" src="https://github.com/user-attachments/assets/4c404e88-6a95-40cc-8f0c-a6eeebcf9103" />
 
-> Replace the placeholders below with your project screenshots
-
-| Login | Profile | Suggestions |
-|------|---------|-------------|
-| <img src="![Uploading login.png…]()
-" width="250"/> | <img src="" width="250"/> | <img src="" <img width="1920" height="1080" alt="suggestions" src="https://github.com/user-attachments/assets/4bf9d993-46ec-4e87-ab13-0126ed948578" />
-width="250"/> |
-
-| Matches (Pending) | Matches (Connected) |
-|------------------|-------------------|
-| <img src="![Uploading matches.png…]()"
- width="250"/> | <img src="screenshots/connections.png" width="250"/> |
 
 
