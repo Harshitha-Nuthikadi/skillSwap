@@ -62,25 +62,25 @@ npm start
 
 ### How to use 
 
-Create account and complete profile
+1)Create account and complete profile
 
-Add:
+2)Add:
 
-Skills you can teach
+->Skills you can teach
 
-Skills you want to learn
+->Skills you want to learn
 
-Go to Suggestions
+3)Go to Suggestions
 
-Send request to the best-match people
+4)Send request to the best-match people
 
-Go to Matches
+5)Go to Matches
 
-Accept / Reject requests
+->Accept / Reject requests
 
-Get email and LinkedIn of accepted partners
+->Get email and LinkedIn of accepted partners
 
-Connect and learn together 🎯
+6)Connect and learn together 🎯
 
 
 
