@@ -36,9 +36,9 @@ We built:
 
 ## Snapshots
 
-<img width="700" height="700" alt="login" src="https://github.com/user-attachments/assets/310d61c3-e5f1-446d-9bc6-a941da7f5859" />
+<img width="900" height="700" alt="login" src="https://github.com/user-attachments/assets/310d61c3-e5f1-446d-9bc6-a941da7f5859" />
 
-<img width="1920" height="700" alt="register" src="https://github.com/user-attachments/assets/a314cee3-6e96-40a1-bed6-ed59a13aec1a" />
+<img width="900" height="700" alt="register" src="https://github.com/user-attachments/assets/a314cee3-6e96-40a1-bed6-ed59a13aec1a" />
 
 <img width="1920" height="1080" alt="profile" src="https://github.com/user-attachments/assets/bfbeeaae-420e-4d0a-ae84-d2136e8e61ae" />
 
