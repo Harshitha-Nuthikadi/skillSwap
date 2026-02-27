@@ -57,18 +57,18 @@ We built:
 
 
 ## 📂 Project Structure
-skillswap/
-├── backend/
-│ ├── server.js
-│ ├── config/
-│ ├── routes/
-│ ├── models/
-│ ├── middleware/
-│ └── utils/
-└── frontend/
-├── src/
-├── public/
-└── package.json
+skillswap/<br>
+├── backend/ <br>
+│ ├── server.js<br>
+│ ├── config/<br>
+│ ├── routes/<br>
+│ ├── models/<br>
+│ ├── middleware/<br>
+│ └── utils/<br>
+└── frontend/<br>
+├── src/<br>
+├── public/<br>
+└── package.json<br>
 
      
 ## ▶️ Run Locally
