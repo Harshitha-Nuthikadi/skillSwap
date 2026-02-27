@@ -56,7 +56,19 @@ We built:
 <img width="1920" height="905" alt="Screenshot 2026-02-27 134216" src="https://github.com/user-attachments/assets/23ceddd2-93ec-4bab-9f5a-052e7868a6e0" />
 
 
-
+## 📂 Project Structure
+skillswap/
+├── backend/
+│ ├── server.js
+│ ├── config/
+│ ├── routes/
+│ ├── models/
+│ ├── middleware/
+│ └── utils/
+└── frontend/
+├── src/
+├── public/
+└── package.json
 
      
 ## ▶️ Run Locally
