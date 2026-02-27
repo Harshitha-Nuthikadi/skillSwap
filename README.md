@@ -35,16 +35,24 @@ We built:
 
 
 ## Snapshots
+### 🔐 Register Page
+<br>
+<img width="1920" height="886" alt="Screenshot 2026-02-27 134705" src="https://github.com/user-attachments/assets/2c7665a7-b2b5-45b9-bfcd-411ce2d9857c" />
+### 🔑 Login Page
+<br>
+<img width="1920" height="885" alt="Screenshot 2026-02-27 134655" src="https://github.com/user-attachments/assets/fbda6487-23ec-4699-b420-185d37fcec26" />
+### 📊 Dashboard – Profile
+<br>
+<img width="1920" height="883" alt="Screenshot 2026-02-27 134203" src="https://github.com/user-attachments/assets/9d7128b6-7337-4c82-a772-c9775608ef1c" />
 
-<img width="900" height="700" alt="login" src="https://github.com/user-attachments/assets/310d61c3-e5f1-446d-9bc6-a941da7f5859" />
+### 📊 Dashboard – Suggested Partners
+<br>
+<img width="1920" height="905" alt="Screenshot 2026-02-27 134216" src="https://github.com/user-attachments/assets/427cb7c5-331f-4d61-8a42-2069ab3a7fa5" />
 
-<img width="900" height="700" alt="register" src="https://github.com/user-attachments/assets/a314cee3-6e96-40a1-bed6-ed59a13aec1a" />
+### 📊 Dashboard – Matches
+<br>
+<img width="1920" height="905" alt="Screenshot 2026-02-27 134216" src="https://github.com/user-attachments/assets/23ceddd2-93ec-4bab-9f5a-052e7868a6e0" />
 
-<img width="900" height="700" alt="profile" src="https://github.com/user-attachments/assets/bfbeeaae-420e-4d0a-ae84-d2136e8e61ae" />
-
-<img width="900" height="700" alt="suggestions" src="https://github.com/user-attachments/assets/1833007e-5611-469e-b3ae-7e3880637b0d" />
-
-<img width="900" height="700" alt="matches" src="https://github.com/user-attachments/assets/4c404e88-6a95-40cc-8f0c-a6eeebcf9103" />
 
 ## Folder Structure
 skillswap/ <br/>
