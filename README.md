@@ -38,10 +38,10 @@ We built:
 ### 🔐 Register Page
 <br>
 <img width="1920" height="886" alt="Screenshot 2026-02-27 134705" src="https://github.com/user-attachments/assets/2c7665a7-b2b5-45b9-bfcd-411ce2d9857c" />
-### 🔑 Login Page
+## 🔑 Login Page
 <br>
 <img width="1920" height="885" alt="Screenshot 2026-02-27 134655" src="https://github.com/user-attachments/assets/fbda6487-23ec-4699-b420-185d37fcec26" />
-###📊 Dashboard – Profile
+### 📊 Dashboard – Profiles
 <br>
 <img width="1920" height="883" alt="Screenshot 2026-02-27 134203" src="https://github.com/user-attachments/assets/9d7128b6-7337-4c82-a772-c9775608ef1c" />
 
