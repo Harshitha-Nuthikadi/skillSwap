@@ -53,7 +53,7 @@ We built:
 
 ### 📊 Dashboard – Matches
 <br>
-<img width="1920" height="905" alt="Screenshot 2026-02-27 134216" src="https://github.com/user-attachments/assets/23ceddd2-93ec-4bab-9f5a-052e7868a6e0" />
+<img width="1920" height="905" alt="Screenshot 2026-02-27 134237" src="https://github.com/user-attachments/assets/f92f5725-6b05-4920-917b-34441617977b" />
 
 
 ## 📂 Project Structure
